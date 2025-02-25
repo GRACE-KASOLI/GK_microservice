@@ -4,7 +4,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/management-service/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/M-PESA-service/pom.xml" />
+>>>>>>> cee37c9 (second commit)
       </list>
     </option>
   </component>
